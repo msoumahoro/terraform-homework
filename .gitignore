@@ -18,5 +18,10 @@
 # Ignore lock files (optional, you might or might not want to commit .terraform.lock.hcl)
 .terraform.lock.hcl
 
+
+# Ignore Key Pair files
+ key_pair.tf
+
 # Ignore gitignore file
  .gitignore
+  
