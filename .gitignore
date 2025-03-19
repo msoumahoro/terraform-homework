@@ -18,6 +18,8 @@
 # Ignore lock files (optional, you might or might not want to commit .terraform.lock.hcl)
 .terraform.lock.hcl
 
+# Ignore S3 Bucket file
+s3.tf
 
 # Ignore Key Pair files
  key_pair.tf
